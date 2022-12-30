@@ -1,0 +1,35 @@
+{
+  "text": {
+    "t1619ad4d": "Quiénes somos",
+    "tn47a9cfd": "Campañas",
+    "t5f2dfd59": "Contenido",
+    "t6257c02e": "Noticias",
+    "tn3df42d95": "Multimedia",
+    "t61c9c65b": "Realiza una denuncia",
+    "tn192aa8a2": "Denuncias",
+    "tn6d098a88": "Ofrecemos una vía ágil, segura y comprometida para resolver tus denuncias por violencia, discriminación o vulneración de tus derechos. Llená el formulario en menos de 5 minutos y nos pondremos en contacto con vos para dar curso a las acciones que sean necesarias.",
+    "tn1df83b91": "Contacto",
+    "t3610230d": "Text Link",
+    "t48e9aa2c": "Yeah, where does he live? I'd like you to meet my good friend George McFly. Don't worry. As long as you hit that wire with the connecting hook at precisely 88 miles per hour, the instance the lightning strikes the tower, everything will be fine. Lorraine, are you up there? It's a board with wheels.",
+    "t1456bd2d": "Quiénes Somos"
+  },
+  "link": {
+    "a23": "#",
+    "a6cb2984": "quienes-somos",
+    "a-856ece0": "campanas",
+    "a5e7d5c0e": "noticias",
+    "a4b39f64b": "multimedia",
+    "a78421b06": "realiza-tu-denuncia",
+    "a-21d29fb1": "contacto"
+  },
+  "textarea": {},
+  "richtext": {},
+  "img": {
+    "in65a0ce3d": {
+      "src": "/assets/images/logo-panambi.png",
+      "alt": "",
+      "sizes": ""
+    }
+  },
+  "iframe": {}
+}
